@@ -1,10 +1,8 @@
 
 # Sup
 
-- 🔭 I’m currently working on: ISI LAB
-- 🌱 I’m currently learning: Python
-- 🤔 I’m looking for help with: finding the reason to live
+- 🔭 I’m currently working on: my portfolio
+- 🌱 I’m currently learning: Tensorflow, SKLearn, C++
+- 🤔 I’m looking for help with: finding an internship
 - 💬 Ask me about: anything
-- My culinary blog: https://pawelmagnu.github.io
-- An interesting article: https://github.com/pawelmagnu/PuzzleTunnelDiscovery
-- _bruv_ 
+- My portfolio(WIP): https://pawelmagnu.github.io
