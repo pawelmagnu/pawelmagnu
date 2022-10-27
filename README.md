@@ -1,6 +1,8 @@
-# Hi there!
+# Hi there, I'm Paweł 
 
-I'm a CS student interested in AI and ML.
+I'm working as a **Data Scientist** @Brainhint
 
+I'm interested in **Explainable AI** , **Time Series Forecasting** , **AI in Finance**
 
-- 🌱 I’m currently learning: Tensorflow, SKLearn, PySpark, Hadoop, C#
+I'm studying **Computer Science and Intelligent Systems** at **AGH UST** in Cracow
+
